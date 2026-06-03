@@ -1,6 +1,6 @@
 ## Hello everyone👋
 
-<center>![](maxfarnea.jpg)</center>
+![](maxfarnea.jpg)
 
 I’m Max Farnea. I’ve always been passionate about music, computer science, and electronics—and all the ways they intersect and inspire each other.
 
