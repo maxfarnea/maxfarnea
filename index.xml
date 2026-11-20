@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Onde Quadre</title>
+      <link>https://maxfarnea.github.io</link>
+      <description>Ultime 10 note on Onde Quadre</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Onde Quadre</title>
+    <link>https://maxfarnea.github.io/index.en</link>
+    <guid>https://maxfarnea.github.io/index.en</guid>
+    <description><![CDATA[ Max Farnea's blog on experimental music, electronics, circuit bending and DIY. ]]></description>
+    <pubDate>Fri, 20 Nov 2026 21:02:25 GMT</pubDate>
+  </item><item>
+    <title>Onde Quadre</title>
+    <link>https://maxfarnea.github.io/</link>
+    <guid>https://maxfarnea.github.io/</guid>
+    <description><![CDATA[ Blog di Max Farnea su musica sperimentale, elettronica, circuit bending e autocostruzione. ]]></description>
+    <pubDate>Fri, 20 Nov 2026 21:02:25 GMT</pubDate>
+  </item><item>
+    <title>LIVE CODING, OR WHEN THE PROGRAM BECOMES AN INSTRUMENT</title>
+    <link>https://maxfarnea.github.io/20261119/live-coding.en</link>
+    <guid>https://maxfarnea.github.io/20261119/live-coding.en</guid>
+    <description><![CDATA[ Live coding: performing music by writing code in real time, in front of the audience, screens wide open. The TOPLAP manifesto, algorave, Sonic Pi and generative pattern ]]></description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>LIVE CODING, O QUANDO IL PROGRAMMA DIVENTA STRUMENTO</title>
+    <link>https://maxfarnea.github.io/20261119/live-coding</link>
+    <guid>https://maxfarnea.github.io/20261119/live-coding</guid>
+    <description><![CDATA[ Il live coding: eseguire musica scrivendo codice in diretta, davanti al pubblico, a schermo aperto. Il manifesto TOPLAP, algorave, Sonic Pi e i pattern generat ]]></description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>MIDIBOX64, A CONTROL SURFACE WAITING TO BECOME SOMETHING ELSE</title>
+    <link>https://maxfarnea.github.io/20251030/midibox64.en</link>
+    <guid>https://maxfarnea.github.io/20251030/midibox64.en</guid>
+    <description><![CDATA[ MIDIbox64 as a control surface: 32 analog inputs, 32 digital inputs, 32 feedback LEDs. Built in 2006, born to host sensors, repurposed twenty years later ]]></description>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>MIDIBOX64, UNA CONTROL SURFACE CHE ASPETTA DI DIVENTARE ALTRO</title>
+    <link>https://maxfarnea.github.io/20251030/midibox64</link>
+    <guid>https://maxfarnea.github.io/20251030/midibox64</guid>
+    <description><![CDATA[ MIDIbox64 come control surface: 32 ingressi analogici, 32 digitali, 32 LED di feedback. Costruita nel 2006, nata per collegarci sensori, riadattata vent'anni dopo ]]></description>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>MIDIBOX SID, THE COMMODORE 64 SOUND CHIP IN A MIDI SYNTH</title>
+    <link>https://maxfarnea.github.io/20250910/midibox-sid.en</link>
+    <guid>https://maxfarnea.github.io/20250910/midibox-sid.en</guid>
+    <description><![CDATA[ The MOS 6581, the sound chip of the Commodore 64, at the command of a microcontroller: MIDIbox SID, the DIY synth I built in 2006 on the MIDIbox platform ]]></description>
+    <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>MIDIBOX SID, IL CHIP DEL COMMODORE 64 IN UN SYNTH MIDI</title>
+    <link>https://maxfarnea.github.io/20250910/midibox-sid</link>
+    <guid>https://maxfarnea.github.io/20250910/midibox-sid</guid>
+    <description><![CDATA[ Il MOS 6581, il chip sonoro del Commodore 64, al comando di un microcontrollore: MIDIbox SID, il synth autocostruito nel 2006 sulla piattaforma MIDIbox. I regist ]]></description>
+    <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>IRON SKY DIRECTOR&#039;S DIARY</title>
+    <link>https://maxfarnea.github.io/20240819/iron-sky-directors-diary.en</link>
+    <guid>https://maxfarnea.github.io/20240819/iron-sky-directors-diary.en</guid>
+    <description><![CDATA[ Here is another sighting of my music. Timo Vuorensola, the director of the film Iron Sky, used the extended version of Contro il Mondo as a soundtrack in an episode of his Director's Diary for Iron Sky. ]]></description>
+    <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>IRON SKY DIRECTOR&#039;S DIARY</title>
+    <link>https://maxfarnea.github.io/20240819/iron-sky-directors-diary</link>
+    <guid>https://maxfarnea.github.io/20240819/iron-sky-directors-diary</guid>
+    <description><![CDATA[ Ecco un altro 'avvistamento' della mia musica. Timo Vuorensola, il regista del film Iron Sky, ha usato la versione estesa di Contro il Mondo come commento sonor ]]></description>
+    <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
